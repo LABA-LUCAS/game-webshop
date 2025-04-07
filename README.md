@@ -1,15 +1,33 @@
-# Game-webshop / titel project 
-#Webrookie-Eindproject Webshop
+# **Game-webshop**
+## **Webrookie-Eindproject Webshop**
 
-# Beschrijving wat mijn site / code doet
-#Welkom bij Game Enthusiast! Een online webshop gemaakt voor een school project.
-#Mijn site is bedoelt voor leerdoeleinden om te oefenen met het gebruik van json en localstorages met behulp van javascript. Je kan hier producten bekijken, sorteren op een aantal categorieën, toevoegen aan een winkelmandje, de bestelling gegevens sturen en de producten zelfs aanpassen of zelfs toevoegen aan de localstorage. 
+### **Beschrijving:**
+Welkom bij Game Enthusiast! Een online webshop gemaakt voor een schoolproject.  
 
-# Leg een beetje uit waar alles staat en waar de gebruiker op moet letten / hoe gebruik je het project
-#Alle bestanden die ik gebruik zitten in deze folders. De images, styling en javascript zitten in aparte folders voor organisatie.
-#Er zijn in de html wat "link href" en "script src" die verwijzen naar gedeeltes van bootstrap of styling. Voeg ze toe bovenop de basis indeling van een html bij de "head" of onderaan de "body".
+Mijn site is bedoelt voor leerdoeleinden om te oefenen met het gebruik van JSON en localstorages met behulp van JavaScript. 
 
-# prerequisites / mogelijke set up
-#stukje tekst dat vraagt om visual studio
-#vak met een stukje code om te checken of je iets hebt zoals visuaal studio of de juiste repository
-#als mensen het niet hebben wil ik hier tekst met een woord dat als anchor link werkt en de persoon verwijst naar de site om visual studio te downloaden
+Je kan hier producten bekijken, sorteren op een aantal categorieën, toevoegen aan een winkelmandje, de bestelling gegevens sturen en de producten zelfs aanpassen of zelfs toevoegen aan de localstorage.
+
+### **Hoe gebruik je het project:**
+De repository en de html staan bij elkaar en een aantal bestanden zitten in aparte folders:  
+- **Images**: voor afbeeldingen  
+- **Styling**: voor CSS-bestanden  
+- **JavaScript**: voor de scripts  
+
+Er zijn in de HTML een aantal `link href` en `script src` verwijzingen naar gedeeltes van Bootstrap of styling. Voeg deze toe:  
+- Bovenaan in de **head**-tag.  
+- Onderaan in de **body**-tag, bijvoorbeeld:
+
+```html
+(Voor bootstrap) <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script> 
+
+(Voor icon in de browser links boven) <link rel="shortcut icon" href="images/Screenshot_Trophy.png" type="image/x-icon">
+
+(Voor een reference naar de style.css) <link rel="stylesheet" href="styling/homePageStyle.css">
+```
+
+### **Prerequisites / mogelijke set up**
+Voor dit project heb je Visual Studio, een browser en wifi nodig. Controleer of je het volgende hebt geïnstalleerd:
+
+```bash
+visualstudio
