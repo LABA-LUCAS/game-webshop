@@ -1,0 +1,11 @@
+# Zet de URL herschrijvingen aan
+RewriteEngine On
+
+# Als iemand naar /admin gaat, leid dit dan door naar de adminPage
+RewriteRule ^admin/?$ /adminPage/index.html [L]
+
+# Als iemand naar /cart gaat, leid dit dan door naar de cartPage
+RewriteRule ^cart/?$ /cartPage/index.html [L]
+
+# Dit zorgt ervoor dat de standaard pagina geladen wordt bij de root URL (bijv. mijn-domein.nl)
+RewriteRule ^$ /homePage/index.html [L]

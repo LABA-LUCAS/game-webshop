@@ -1,0 +1,169 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #212529;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #333;
+    color: white;
+}
+
+header .left h1 {
+    margin: 0;
+}
+
+header .right button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.table-controls {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+#addGame {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 60px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+#nav-orders h3, #noOrdersMessage {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.reset-button {
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 20px;
+    align-self: center;
+}
+
+.nav-tabs .nav-link {
+    color: white;
+    margin-right: 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-tabs .nav-link:hover {
+    color: green;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: green;
+    border: 1px;
+}
+
+section {
+    margin-left: 20px; 
+}
+
+input, img {
+    display: block; 
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px; 
+    font-size: 16px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.btn-danger:hover {
+    background-color: darkred;
+}
+
+#saveEditGame {
+    background-color: purple;
+    color: white;
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+.btn-primary:hover {
+    background-color: darkblue;
+}
+
+#saveNewGame {
+    background-color: purple;
+    color: white;
+}
+
+#backButton2, #backButton1 {
+    background-color: red;
+    border: none;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+#previewEditGame, #previewNewGame {
+    background-color: blue;
+    color: white;
+}
+
+

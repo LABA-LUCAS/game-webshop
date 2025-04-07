@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.image-container {
+    grid-area: image;
+    align-self: start;
+}
+
+#gamesContainer {
+    display: grid;
+    grid-template-areas:
+        "image info"
+        "description description";
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 10px;
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.info-container {
+    grid-area: info;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.intro-card {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.price-and-button {
+    margin-top: auto;
+    text-align: left;
+}
+
+.description {
+    grid-area: description;
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.nav-item {
+    position: relative;
+}
+
+.cart-badge {
+    position: absolute;
+    top: -5px;
+    right: -2px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+    z-index: 10;
+}

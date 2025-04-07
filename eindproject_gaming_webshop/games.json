@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "title": "Adventure Quest",
+        "image": "images/screenshot_Adventure Quest.png",
+        "inleiding": "Een episch avontuur waarin spelers een held spelen die door verschillende werelden reist, raadsels oplost en vijanden verslaat om een oud kwaad te stoppen. Keuzes die je maakt beïnvloeden de uitkomst van het verhaal, en er zijn talloze geheimen om te ontdekken!",
+        "prijs": 12,
+        "likes": 80914,
+        "sale": 0,
+        "genre": "Actie",
+        "releaseDate": "2002-02-10",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 1.5,
+            "Platform": "PC, PlayStation 5, Xbox Series X",
+            "Game-modus": "Offline met co-op multiplayer",
+            "Garantie tijd (jaar)": 2
+        }
+    },
+    {
+        "id": 2,
+        "title": "FPS Frenzy",
+        "image": "images/screenshot_FPS Frenzy.png",
+        "inleiding": "Een actievolle first-person shooter waarbij je het opneemt tegen andere spelers in verschillende dynamische omgevingen. Van moderne oorlogsvoering tot futuristische slagvelden, deze game biedt adrenaline-gedreven gevechten en uitdagende missies.",
+        "prijs": 3,
+        "likes": 64828,
+        "sale": 0,
+        "genre": "Multiplayer",
+        "releaseDate": "2004-12-20",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 3.2,
+            "Platform": "PC, Xbox One, Nintendo Switch",
+            "Game-modus": "Online multiplayer",
+            "Garantie tijd (jaar)": 1
+        }
+    },
+    {
+        "id": 3,
+        "title": "Open World Odyssey",
+        "image": "images/Screenshot_Open World Odyssey.png",
+        "inleiding": "Verken een immense open wereld vol onbekende steden, gevaarlijke bossen, en onontdekte ruïnes. Spelers kunnen hun eigen pad kiezen, een held worden of een schurk, en verschillende missies voltooien in een rijk verhaal met talloze mogelijkheden.",
+        "prijs": 15,
+        "likes": 61753,
+        "sale": 0,
+        "genre": "Multiplayer",
+        "releaseDate": "2017-06-22",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 10,
+            "Platform": "PC, Xbox Series X, PlayStation 5",
+            "Game-modus": "Offline en online co-op",
+            "Garantie tijd (jaar)": 3
+        }
+    },
+    {
+        "id": 4,
+        "title": "Battle Royale Pro",
+        "image": "images/Screenshot_Battle Royale Pro.png",
+        "inleiding": "Een intense Battle Royale-game waarin honderden spelers tegen elkaar strijden om als laatste overlevende over te blijven. Gebruik tactiek, teamwork en het juiste wapen om te winnen in een steeds kleiner wordend gevechtsgebied.",
+        "prijs": 8,
+        "likes": 96390,
+        "sale": 0,
+        "genre": "Multiplayer",
+        "releaseDate": "2016-09-6",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 4.7,
+            "Platform": "PC, PlayStation 4, Xbox One, Stadia",
+            "Game-modus": "Online multiplayer",
+            "Garantie tijd (jaar)": 0.5
+        }
+    },
+    {
+        "id": 5,
+        "title": "Mystery Solver",
+        "image": "images/Screenshot_Mystery Solver .png",
+        "inleiding": "Stap in de schoenen van een privé-detective die een reeks mysterieuze misdaden moet oplossen. Van moorden tot gestolen voorwerpen, gebruik je vaardigheden in onderzoek en deductie om verborgen aanwijzingen te ontdekken en de waarheid te onthullen.",
+        "prijs": 6,
+        "likes": 19896,
+        "sale": 67,
+        "genre": "Actie",
+        "releaseDate": "2013-03-19",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 0.7,
+            "Platform": "PC, Nintendo Switch, Mobile",
+            "Game-modus": "Offline",
+            "Garantie tijd (jaar)": 1
+        }
+    },
+    {
+        "id": 6,
+        "title": "Sci-Fi Conqueror",
+        "image": "images/Screenshot_Sci-Fi Conqueror.png",
+        "inleiding": "In een verre toekomst neem je de rol aan van een intergalactische veroveraar die het universum moet domineren. Verken nieuwe planeten, vecht tegen buitenaardse rassen en beheer je rijk met slimme strategieën om een galactisch imperium op te bouwen.",
+        "prijs": 18,
+        "likes": 53619,
+        "sale": 33,
+        "genre": "Horror",
+        "releaseDate": "1999-04-1",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 8.3,
+            "Platform": "PC, PlayStation 5, Xbox Series X",
+            "Game-modus": "Online multiplayer en single-player",
+            "Garantie tijd (jaar)": 2
+        }
+    },
+    {
+        "id": 7,
+        "title": "Arcade Mania",
+        "image": "images/Screenshot_Arcadia Maniac.png",
+        "inleiding": "Een nostalgische terugkeer naar de gouden tijden van arcadegames! Van retro platformgames tot moderne strijdarena’s, speel klassieke en vernieuwde versies van iconische spellen met een twist. Ontgrendel nieuwe levels en strijd tegen vrienden voor de hoogste score.",
+        "prijs": 9,
+        "likes": 27381,
+        "sale": 85,
+        "genre": "Actie",
+        "releaseDate": "1996-10-1",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 2.1,
+            "Platform": "PC, Xbox One, PlayStation 4",
+            "Game-modus": "Offline en online multiplayer",
+            "Garantie tijd (jaar)": 0.5
+
+        }
+    },
+    {
+        "id": 8,
+        "title": "Zombie Run",
+        "image": "images/Screenshot_Zombie Run.png",
+        "inleiding": "De stad is overspoeld door zombies en jij moet je een weg banen door hordes van ondoden. Gebruik wapens, vallen en strategie om te overleven terwijl je probeert te ontsnappen naar veilige gebieden en te ontsnappen aan de apocalyps.",
+        "prijs": 5,
+        "likes": 40273,
+        "sale": 50,
+        "genre": "Horror",
+        "releaseDate": "2008-08-3",
+        "specificaties": {
+            "Bestandsgrootte (GB)": 1,
+            "Platform": "Mobile, Nintendo Switch",
+            "Game-modus": "Offline en co-op multiplayer",
+            "Garantie tijd (jaar)": 1
+
+        }
+    }
+]
